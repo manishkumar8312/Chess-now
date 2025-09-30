@@ -5,8 +5,6 @@
 This project is a simple implementation of a **Chess Game** built with HTML, CSS, and JavaScript. The goal is to provide a fully functional, interactive chess board playable in a web browser. Players can move pieces, and the game enforces standard chess rules. 
 ---
 
-
-
 ## Features
 
 - 🟢 Fully interactive chessboard.
